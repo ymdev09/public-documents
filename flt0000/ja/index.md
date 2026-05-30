@@ -1,2 +1,2 @@
 ## .Counter
-- [プライバシーポリシー](PrivacyPolicy.md)
+- [プライバシーポリシー](privacy-policy.md)
